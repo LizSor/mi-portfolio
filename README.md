@@ -1,6 +1,6 @@
 ## Descripción
 
-Este es un portafolio creado con HTML y CSS
+Este es un portfolio creado con HTML y CSS
 
 ## Autor
 **Liz**
